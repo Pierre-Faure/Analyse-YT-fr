@@ -1,0 +1,9 @@
+pandas
+pandas-profiling
+scikit-learn
+numpy
+matplotlib
+seaborn
+ipython
+ipykernel
+prince
